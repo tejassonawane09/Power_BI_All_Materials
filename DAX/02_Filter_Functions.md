@@ -7,6 +7,9 @@
 CALCULATE modifies the filter context of a calculation and returns the
 result based on applied filters.
 
+## 👉 Simple idea:
+“Calculate a value after applying specific filters.”
+
 ### Syntax
 
 CALCULATE(Expression, Filter1, Filter2, ...)
